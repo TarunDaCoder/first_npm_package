@@ -1,0 +1,22 @@
+{
+  "name": "@tarun_da_coder/is_npm",
+  "version": "1.0.0",
+  "description": "Is the string NPM??",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarunDaCoder/first_npm_package.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "TarunDaCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TarunDaCoder/first_npm_package/issues"
+  },
+  "homepage": "https://github.com/TarunDaCoder/first_npm_package#readme"
+}
